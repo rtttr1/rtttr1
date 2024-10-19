@@ -1,9 +1,4 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Kyu%20Hong%20Kim%20&fontSize=70)
 
-</div>
-<!--내용 부분-->
 
 ## 💻 Tech Stack 
 <div>
