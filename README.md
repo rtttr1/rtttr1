@@ -42,4 +42,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtttr1&show_icons=true&theme=radical) &nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtttr1&layout=compact)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/boob3766/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boob3766)](https://solved.ac/boob3766/)
