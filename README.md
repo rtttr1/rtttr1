@@ -16,7 +16,8 @@
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/emotioncss-1daabb.svg?style=flat-square&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Vanilla-extract-FF4785?style=flat-square&logo=Vanilla-extract&logoColor=white"/>
 </div>
 
 <br>
