@@ -32,8 +32,10 @@
 <br>
 <br>
 
-## Activity
+## 🌐 Activity
 ```shell
+🍀 대학생 연합 IT 벤처 창업 동아리 산하 기구 SOPT MAKERS 36기 (2025.03 ~ )
+
 🍀 대학생 연합 IT 벤처 창업 동아리 SOPT 34기 (2024.03 ~ 2024.07)
 
 🎓 서울시립대학교 전자전기컴퓨터공학부 재학 (2018.03 ~ )
@@ -41,6 +43,6 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtttr1&show_icons=true&theme=radical) &nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtttr1&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtttr1&show_icons=true&theme=radical) &nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boob3766)](https://solved.ac/boob3766/)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boob3766)](https://solved.ac/boob3766/)
+
