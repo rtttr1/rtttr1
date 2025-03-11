@@ -34,9 +34,9 @@
 
 ## 🌐 Activity
 ```shell
-🍀 대학생 연합 IT 벤처 창업 동아리 산하 기구 SOPT MAKERS 36기 (2025.03 ~ )
+🍀 SOPT Makers 36th Admin Part FE (2025.03 ~ )
 
-🍀 대학생 연합 IT 벤처 창업 동아리 SOPT 34기 (2024.03 ~ 2024.07)
+🍀 SOPT 34th Web Part (2024.03 ~ 2024.07)
 
 🎓 서울시립대학교 전자전기컴퓨터공학부 재학 (2018.03 ~ )
 ```
